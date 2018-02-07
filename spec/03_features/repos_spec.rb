@@ -1,6 +1,7 @@
 require_relative '../spec_helper'
 
 describe "Features" do
+  #.env code and not working, workaround required.
   #describe "authentication" do
   #  it "displays the username on the page" do
   #    visit '/auth?code=20'
